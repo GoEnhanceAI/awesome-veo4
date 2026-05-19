@@ -26,6 +26,10 @@ This repository tracks early Veo 4-related cases found on X/Twitter. The naming 
 
 ### Case 1: Multi-angle scene generation leak
 
+**Preview**
+
+[![Case 1 preview](previews/case-1.jpg)](https://x.com/pankajkumar_dev/status/2055657003624939860)
+
 **Source**
 
 - X post: [Pankaj Kumar — Google I/O leaks: Veo 4 / Gemini Omni](https://x.com/pankajkumar_dev/status/2055657003624939860)
@@ -46,6 +50,10 @@ Community-reported leak / commentary with attached image evidence. Not an offici
 
 ### Case 2: Background music support
 
+**Preview**
+
+[![Case 2 preview](previews/case-2.jpg)](https://x.com/mark_k/status/2056497529408122898)
+
 **Source**
 
 - X post: [Mark Kretschmann — first taste of Veo 4](https://x.com/mark_k/status/2056497529408122898)
@@ -59,6 +67,10 @@ A community post claiming an early Veo 4 sample includes **background music supp
 Community-reported preview. Useful as an audio-focused case, but not enough alone to confirm exact product naming.
 
 ### Case 3: Voice consistency, video editing, and multi-reference input
+
+**Preview**
+
+[![Case 3 preview](previews/case-3.jpg)](https://x.com/Mho_23/status/2056755391791313156)
 
 **Source**
 
@@ -79,6 +91,10 @@ First-hand community test with video media. API pricing and exact model mapping 
 
 ### Case 4: Cyberpunk hacker robot demo
 
+**Preview**
+
+[![Case 4 preview](previews/case-4.jpg)](https://x.com/testingcatalog/status/2056770704217932254)
+
 **Source**
 
 - X post: [TestingCatalog — Gemini Omni test](https://x.com/testingcatalog/status/2056770704217932254)
@@ -92,6 +108,10 @@ A video demo described as a **"Cyberpunk hacker robot"** generation. The author 
 First-hand demo with video media. This is a useful visual-quality case, especially for scene composition.
 
 ### Case 5: Flow / Gemini Omni availability screenshot
+
+**Preview**
+
+[![Case 5 preview](previews/case-5.jpg)](https://x.com/op7418/status/2056758486755844494)
 
 **Source**
 
@@ -107,6 +127,10 @@ Screenshots indicating **Gemini Omni Flash** appearing inside Google Flow for so
 UI/screenshot evidence. Good for availability tracking, but it does not by itself prove whether Omni Flash equals Veo 4.
 
 ### Case 6: Omni Flash text-to-video batch test
+
+**Preview**
+
+[![Case 6 preview](previews/case-6.jpg)](https://x.com/mirroraoaoao/status/2056768543937683797)
 
 **Source**
 
@@ -129,6 +153,10 @@ First-hand test with video media. Useful because it includes multiple prompt cat
 
 ### Case 7: Seedance 2.0 vs Veo Omni Flash comparison
 
+**Preview**
+
+[![Case 7 preview](previews/case-7.jpg)](https://x.com/brightlight_88/status/2056769402834440382)
+
 **Source**
 
 - X post: [Kevin — Seedance 2.0 vs Veo Omni Flash comparison](https://x.com/brightlight_88/status/2056769402834440382)
@@ -143,6 +171,10 @@ First-hand comparison with video media. Low engagement at capture time, but pote
 
 ### Case 8: Video editing / watermark-removal comparison
 
+**Preview**
+
+[![Case 8 preview](previews/case-8.jpg)](https://x.com/Waguri_Kaoruko8/status/2053818116237353039)
+
 **Source**
 
 - X post: [Just a dragon — Google Omni model video editing](https://x.com/Waguri_Kaoruko8/status/2053818116237353039)
@@ -156,6 +188,10 @@ A left/right video comparison claiming Google's new Omni model can edit video an
 Leaked/anonymous-style claim with video media. Include as a video-editing case, but label carefully: the watermark-removal claim is sensitive and not something to encourage as a workflow.
 
 ### Case 9: Flow Agent and Gemini Omni UI evidence
+
+**Preview**
+
+[![Case 9 preview](previews/case-9.jpg)](https://x.com/testingcatalog/status/2056752915885277494)
 
 **Source**
 
