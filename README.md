@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome Veo 4 Cases
+# Awesome Veo 4 Prompts
 
 Community-discovered Veo 4 / Gemini Omni / Omni Flash cases and X/Twitter evidence for AI video generation.
 
